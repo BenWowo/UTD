@@ -1,1 +1,0 @@
-/home/wowob/Desktop/vs-code-files/school/UTD/erro/target/debug/erro: /home/wowob/Desktop/vs-code-files/school/UTD/erro/src/lib.rs /home/wowob/Desktop/vs-code-files/school/UTD/erro/src/main.rs /home/wowob/Desktop/vs-code-files/school/UTD/erro/src/scan.rs
