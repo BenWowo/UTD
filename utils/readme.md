@@ -8,6 +8,9 @@ These are still a work in progress and I still need to create a Makefile to hand
 ```c
 #include "utils.h"
 
+Stack stack = {0};
+stack_init(&stack);
+
 char* word1 = "first";
 char* word2 = "second";
 char* word3 = "third";
